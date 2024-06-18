@@ -12,7 +12,7 @@ Este é um jogo simples de Pong desenvolvido usando a biblioteca Pygame em Pytho
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/pong-game.git
+    git clone https://github.com/Erickwndl/pongpong_pygame
     cd pong-game
     ```
 
@@ -37,7 +37,7 @@ Este é um jogo simples de Pong desenvolvido usando a biblioteca Pygame em Pytho
         - `S` para mover a raquete para baixo
 
     - Jogador 2:
-        - A raquete do jogador 2 segue automaticamente a bola
+        - A raquete do jogador 2 é um IA simples
 
 3. **Objetivo:**
 
